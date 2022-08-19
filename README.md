@@ -9,7 +9,8 @@
 
 ## Pre-OC Setup
 
-- Use either a high quaility thermal paste (Noctua NH-2) or liquid metal (Thermal Grizzly Conductonaut) with either a direct die frame or copper ihs or you are wasting time
+- High quaility PSU and power conditioner (high quality house wiring will be more effective than a conditoner but we need to reduce as much EMI as possible)
+- Use either a high quality thermal paste (Noctua NH-2) or liquid metal (Thermal Grizzly Conductonaut) with either a direct die frame or copper ihs or you are wasting time
 - Use a 360mm **prefered** or 280mm (high cpm fans required) AIO or custom loop (make sure the block is copper)
 - Use a 120mm or 140mm case fan for your ram sticks (with the heatsinks removed or swapped for copper) this is required as faster ram has tighter temperature requirements (sub 40c)
 - One 4GB or larger usb for live linux/windows pe & bios flashing (**NEVER overclock on your os if you care about the data on it**)
