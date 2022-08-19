@@ -3,6 +3,7 @@
 ## Why OC?
 - Consistent performance compared to algorthim based "auto oc"
 - If you play games (especially open world) you can see a huge boost in lows https://kingfaris.co.uk/blog/intel-ram-oc-impact/
+- Responsive input (Input Delay/Lag)
 
 ## Steps
 
