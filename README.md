@@ -36,3 +36,9 @@
 - AMIBCP (BIOS file modding tool for unlocking hidden menus)
 - https://cdn.discordapp.com/attachments/715228846370062406/1005349661479030954/MMTool64.exe (MMTool Used for removing microcode)
 - AFUWIN (BIOS R/W Tool)
+
+###### Misc. Notes
+- If you use a m.2 based drive take it out before ocing as it can break during very unstable system conditions
+- Never use the iGPU while ocing (never use it in general either)
+- Good Aios to Consider, EVGA CLC 280/360 (Stock fans should be swapped for p14), Arctic Liquid Frezzer ii 280/360
+- Case Fans: P14/P12 or Noctua Industral 3000RPM (Use curve for audio recording)
