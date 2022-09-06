@@ -44,3 +44,14 @@
 - Never use the iGPU while ocing (never use it in general either)
 - Good Aios to Consider, EVGA CLC 280/360 (Stock fans should be swapped for p14), Arctic Liquid Frezzer ii 280/360
 - Case Fans: P14/P12 or Noctua Industral 3000RPM (Use curve for audio recording)
+
+## BIOS Setup
+- All Spread Spectrum diabled
+- All C-States/Turbo/Freqency changing features disbaled
+- Fixed VRM Freqency, use 500-800
+- Voltage mode manual/overide
+- Voltage "optimizations" diabled
+- TVB disabled
+- Fixed DRAM Freqency
+- Power savings disabled 
+- 
