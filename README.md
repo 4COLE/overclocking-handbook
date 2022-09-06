@@ -1,4 +1,4 @@
-# Overclocking (CML)
+# Overclocking (CML, although some knowledge can be applied to other architectures)
 
 ## Why OC?
 - Consistent performance compared to algorthim based "auto oc"
