@@ -59,4 +59,4 @@
 - V-Max Stress disbaled
 - Fixed DRAM Freqency
 - Power savings disabled 
-- Ring Donw Bing disabled
+- Ring Down Bin disabled
